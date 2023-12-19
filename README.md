@@ -123,3 +123,26 @@ Sure, here are 10 questions based on the provided markdown text:
 10. How do pull requests function in GitHub, and what role do they play in the collaborative development process, especially when working with branches?
 
 These questions cover various aspects of GitHub, from basic functionalities to more advanced concepts like branching and pull requests.
+
+## ANSWERS:
+
+1. A branch in Github is used to create an isolated copy of the main repository. It enables developers to experiment, and make changes where necessary without affecting the main repository.
+
+2. This means that github provides a platform where developers can share a full copy of their projects to be worked upon independently and simultaneously by other developers, track changes made and store the history by recording all the commits made, which in turn can assist in studying or reverting to the older versions of the project.
+
+3. Github is a web-based tool that host git repositories. It provides a graphical user interface to manipulate the functionality of git and expand to add other functionalities. In collaborative software development, github provides a graphical user enviroment to assist in development, storage area for open source projects and version control capabilities to enhance team collaboration and engagement in software development.
+
+4. The GitHub flow is a lightweight workflow that allows developers to experiment and collaborate on their projects easily, without the risk of losing their previous work. It supports experimentation by allowing the creation of various copies of the main branch codebase, which enables developers to work in isolated branches.
+It supports collaboration by enabling developers to communicate through pull requests, comments, discussions and reviews during the integration of changes into the main branch codebase.
+
+5. The purpose of github repository is to store all the projects files e.g documentations, source code and readme e.t.c in a single location. It enables developers to host and store their projects on the cloud, to facilitate for easier tracking of changes, seamless merging of changes and collaboration with other developers.
+
+6. Cloning a repository in github means creating a local copy of the repository onto you machine. Cloning a repository enables a develop to work on the repository offline, keep a backup copy of the repository on own machine and exepriment on it using local tools e.g IDEs to run/execute the program project and debugging.
+
+7. Committing and pushing are mechanisms that enables saving changes to a file in a branch or a given repository and sending committed changes from a local branch to main branch for integration. They help the developer to collaborate with other teammates by creating a review/comments on changes to the cloned branch before integration. Commit messages provide a detailed information on what changes where made and where they where made in a cloned branch, they enable teammates to understand the purpose behind an update.
+
+8. In Github a branch is an isolated copy of the main repository, branches create a copy of the project independent from the main repository where a developer can edit, fix bugs, and experiment with new ideas without affecting the original project.
+
+9. Forking in Github is another way to copy a repository of someone else. It is useful in open source projects to contribute to someones project without affecting the original projects, and then making a proposal through a pull request to make changes to the original project.
+
+10.  A pull request is a proposal to merge changes from one branch  into the main branch. Before changes can be made into the main branch a developer may invite teammates to review and discuss changes made to the project, once the changes are tested and approved a pull request is made to integrate new updates into the main branch. 
