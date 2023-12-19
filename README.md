@@ -128,7 +128,7 @@ These questions cover various aspects of GitHub, from basic functionalities to m
 
 1. A branch in Github is used to create an isolated copy of the main repository. It enables developers to experiment, and make changes where necessary without affecting the main repository.
 
-2. This means that github provides a platform where developers can share a full copy of their projects to be worked upon independently and simultaneously by other developers, track changes made and store the history by recording all the commits made, which in turn can assist in studying or reverting to the older versions of the project.
+2. This means that github provides a platform where developers can share a full copy of their projects to be worked upon independently and simultaneously by other developers, track changes made and store the history of the project by recording all the commits made, which in turn can assist in studying or reverting to the older versions of the project.
 
 3. Github is a web-based tool that host git repositories. It provides a graphical user interface to manipulate the functionality of git and expand to add other functionalities. In collaborative software development, github provides a graphical user enviroment to assist in development, storage area for open source projects and version control capabilities to enhance team collaboration and engagement in software development.
 
